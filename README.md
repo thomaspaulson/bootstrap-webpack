@@ -1,4 +1,4 @@
-# Bootstrap with webpack
+# Bootstrap with webpack/webpack-mix
 
 
 ##Installing Node
