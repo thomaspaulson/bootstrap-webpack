@@ -49267,6 +49267,8 @@ module.exports = function(module) {
  * building robust, powerful web applications using Vue and Laravel.
  */
 __webpack_require__(/*! ./bootstrap */ "./src/js/bootstrap.js");
+/* optional */
+
 
 window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.common.js");
 /**
@@ -49312,6 +49314,8 @@ try {
 
   __webpack_require__(/*! bootstrap */ "./node_modules/bootstrap/dist/js/bootstrap.js");
 } catch (e) {}
+/* optional */
+
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests
  * to our Laravel back-end. This library automatically handles sending the
