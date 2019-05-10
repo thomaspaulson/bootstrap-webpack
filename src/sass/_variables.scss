@@ -27,6 +27,19 @@ $font-size-lg:                $font-size-base * 1.2;
 $font-size-sm:                $font-size-base * .8;
 
 
+
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1240px
+);
+
+
 // Buttons + Forms
 //
 // Shared variables that are reassigned to `$input-` and `$btn-` specific variables.
